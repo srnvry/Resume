@@ -46,6 +46,12 @@ Worked on deployment RedHat Openstack v16.2 HCI model (RedHat Openstack v16.2 an
 **Provide  Support on openstack and ceph storage** Time- Sept/2021
 - Worked on Providing  support on Openstack and RedHat ceph storage in day to day work and also on troubleshooting and implementing the solution  
 
+**PROJECTS CLIENTS**
+---
+- Oman Data Park Oman 
+- NIC New Delhi India 
+- ICTA Sri Lanka 
+
 **Key Skills Used**
 ---
 - **Cloud Computing** –  Openstack (Redhat Director, Kolla-ansible , Triple-O, Packstack)  Openshift
@@ -66,11 +72,11 @@ Worked on deployment RedHat Openstack v16.2 HCI model (RedHat Openstack v16.2 an
 ---
 **Linux World, Jaipur** <br />
 *Role: Trainee (RedHat Openstack - CL210)*  
-- Gained depth knowledge of Red Hat Linux, OpenStack deployment using Packstack, Devstack, kola-Ansible , Basics of Openstack services, Openstack Cloud  Administration, Managing Stack, Basics of Undercloud-Overcloud and RedHat Openstack   deployment under **Mr. Vimal Daga**. 
+- Gained depth knowledge of Red Hat Linux, OpenStack deployment using Packstack, Devstack, kola-Ansible , Basics of Openstack services, Openstack Cloud  Administration, Managing Stack, Basics of Undercloud-Overcloud and RedHat Openstack   deployment  
 
 **FOSTERing Linux, Gurugram** <br />
 *Role: Trainee (RHCSA, RHCE)*  
-- Gained depth knowledge of Red Hat Linux, Installation with Kickstart, Networking,  User Management, Permissions, Partitions, LVM, KVM, Servers and Security (FTP,  SSH, DNS, NFS, LDAP, Samba, ISCSI, MariaDB, Apache Web server etc.) under  **Mr. Amit Saxena**, Chief Technical Officer at Fostering Linux, Gurugram. 
+- Gained depth knowledge of Red Hat Linux, Installation with Kickstart, Networking,  User Management, Permissions, Partitions, LVM, KVM, Servers and Security (FTP,  SSH, DNS, NFS, LDAP, Samba, ISCSI, MariaDB, Apache Web server etc.) 
 
 **Skills Learned During Internship** 
 ---
